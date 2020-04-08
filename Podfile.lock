@@ -1,0 +1,16 @@
+PODS:
+  - WebBrowser (0.1.5)
+
+DEPENDENCIES:
+  - WebBrowser
+
+SPEC REPOS:
+  trunk:
+    - WebBrowser
+
+SPEC CHECKSUMS:
+  WebBrowser: 0248873c77f54e2ac504ece7c2bc8eeb710b5a4f
+
+PODFILE CHECKSUM: ba7afae87bb06136eeefd5937ec741022d3e239e
+
+COCOAPODS: 1.8.4
